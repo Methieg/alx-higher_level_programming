@@ -1,0 +1,8 @@
+# 0x10. Python - Network #0
+Bash
+Python
+Scripting
+Back-end
+API
+
+I understand that a URL is a Uniform Resource Locator, and it is used to identify a resource on the internet. HTTP is the Hypertext Transfer Protocol which is used to transfer data between a server and a client. Reading a URL involves understanding the scheme (usually ‘http’ or ‘https’), the domain name, the sub-domain, the port number, the query string, and any other parameters. A domain name identifies the server where the resource is hosted and a sub-domain is a specific part of the domain. A port number can be specified to tell the server which application to use. A query string is a set of key-value pairs that can be used to pass additional information to the server. An HTTP request is the message sent from the client to the server and an HTTP response is the message sent back from the server to the client. HTTP headers are a set of key-value pairs that provide additional information about the request or response. The HTTP message body is the actual content of the request or response. An HTTP request method is used to indicate the type of action the client wishes to perform on the server. An HTTP response status code is used to indicate the success or failure of a request. An HTTP cookie is a small piece of data that is sent to the client and stored on the client’s computer. To make a request with cURL, you can use the command line tool to make an HTTP request. When you type google.com in your browser, an HTTP request is sent to the server, and a response is sent back which contains the HTML code for the webpage. This HTML code is then rendered by the browser to display the webpage
